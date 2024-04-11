@@ -1,0 +1,6 @@
+fastapi
+gTTS
+meteofrance-api
+psycopg2
+requests
+uvicorn
